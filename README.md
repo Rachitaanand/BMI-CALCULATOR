@@ -1,5 +1,4 @@
 # BMI-CALCULATOR
-ADD MACOS, IOS, ANDROID, TEST, WEB,
 
 Hello Welcome to my new project,
 In this project i have build a BMI calculator APP from the start using Dart and Flutter. I have also used figma and adobe illustrator to design the basic look of the mobile application.  
